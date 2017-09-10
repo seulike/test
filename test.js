@@ -1,3 +1,3 @@
 var test = '23343';
-cons.log
+cons.log('hhhedaafgfg');
 
